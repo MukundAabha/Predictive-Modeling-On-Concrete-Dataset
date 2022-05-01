@@ -1,10 +1,6 @@
 # Predictive-Modeling-On-Concrete-Dataset
 Predictive Modeling On Concrete Dataset with EDA , Feature Engineering and With All Machine Learning Algorithms
 
-Performing Extensive Feature Engineering Project For Machine Learning Projects
-
-## Modeling-strength-of-high-performance-concrete-using-Machine-Learning
-
 ### Problem statement
 Modeling of strength of high performance concrete using Machine Learning.
 
